@@ -7,3 +7,4 @@ NYU
 ### Work Experience
 
 ### Project
+[Publication] 
