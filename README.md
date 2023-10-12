@@ -1,2 +1,9 @@
-# Jia_Portfolio
+# Portfolio
 projects collection
+
+### Education
+NYU
+
+### Work Experience
+
+### Project
